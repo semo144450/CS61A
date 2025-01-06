@@ -15,17 +15,8 @@ This lab explains how to use your own computer to complete assignments for CS 61
 
 * home directory - prompt 提示符 `~ $`
 
-![image-20241022194959187](C:\Users\22044\AppData\Roaming\Typora\typora-user-images\image-20241022194959187.png)
-
 * display the full path - 主目录 - `echo "$HOME"`
 
-![image-20241022200147709](C:\Users\22044\AppData\Roaming\Typora\typora-user-images\image-20241022200147709.png)
-
-* path
-
-	   **c**ommand **l**ine **i**nterface or CLI - 命令行界面
-	
-	   **g**raphics **u**ser **i**nterface or GUI - 图形用户界面
 
 # Organizing files
 
