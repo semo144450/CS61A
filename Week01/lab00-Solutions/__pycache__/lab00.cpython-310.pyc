@@ -1,0 +1,7 @@
+o
+    贷qb$  ?                   @   s   d d? Z dS )c                   C   s   dS )zome up with the most creative expression that evaluates to 2022,
+    using only numbers and the +, *, and - operators.
+
+    >>> twenty_twenty_two()
+    2022
+    i?  ? r   r   r   鶣/mnt/c/Users/22044/Desktop/cs61a/Week01/lab00-Solutions/lab00.py?twenty_twenty_two   s    r   N)r   r   r   r   r   ?<module>   s    
